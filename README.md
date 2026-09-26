@@ -1,20 +1,11 @@
+*This activity has been created as part of the 42 curriculum by kmaghair.*
+
+<div align="center">
+  <h1>🛠️ LIBFT</h1>
+  <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c">
+  <img src="https://img.shields.io/badge/Norminette-Passing-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Score-125%2F100-success?style=for-the-badge">
+</div>
+
 ## Description
-*(...introductory text...)*
-
-<details>
-<summary><b>Click to view String Manipulation Functions</b></summary>
-
-* `ft_strlen` - Calculates the length of a string.
-* `ft_strlcpy` - Size-bounded string copying.
-* `ft_strjoin` - Concatenates two strings into a new allocation.
-* `ft_split` - Splits a string into an array using a delimiter.
-
-</details>
-
-<details>
-<summary><b>Click to view Memory Functions</b></summary>
-
-* `ft_memset` - Fills memory with a constant byte.
-* `ft_calloc` - Allocates memory and sets its bytes to zero.
-
-</details>
+The goal of this project is to build a custom C function library...
