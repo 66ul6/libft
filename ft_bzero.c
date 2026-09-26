@@ -6,13 +6,11 @@
 /*   By: kmaghair <kmaghair@learner.42.tech>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/09/09 23:00:04 by kmaghair          #+#    #+#             */
-/*   Updated: 2026/09/09 23:10:26 by kmaghair         ###   ########.fr       */
+/*   Updated: 2026/09/26 11:51:33 by kmaghair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
-
-#include <strings.h>
 
 void	ft_bzero(void *str, size_t n)
 {

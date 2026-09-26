@@ -6,13 +6,11 @@
 /*   By: kmaghair <kmaghair@learner.42.tech>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/09/10 07:41:52 by kmaghair          #+#    #+#             */
-/*   Updated: 2026/09/11 03:05:20 by kmaghair         ###   ########.fr       */
+/*   Updated: 2026/09/26 11:53:31 by kmaghair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
-
-#include <string.h>
 
 char	*ft_strdup(const char *s)
 {
