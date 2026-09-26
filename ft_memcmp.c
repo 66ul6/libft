@@ -11,8 +11,6 @@
 /* ************************************************************************** */
 #include "libft.h"
 
-#include <string.h>
-
 int	ft_memcmp(const void *str1, const void *str2, size_t n)
 {
 	unsigned char	*ptr1;

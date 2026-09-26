@@ -29,7 +29,7 @@ static int	count_words(const char *s, char c)
 	int	i;
 
 	count = 0;
-  i = 0;
+	i = 0;
 	while (s[i])
 	{
 		while (s[i] == c)

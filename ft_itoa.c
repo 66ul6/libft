@@ -12,8 +12,6 @@
 
 #include "libft.h"
 
-#include <stdio.h>
-
 static int	len(long int nbr)
 {
 	int	len;
